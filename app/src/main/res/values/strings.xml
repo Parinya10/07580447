@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BMI2</string>
+    <string name="height_label">Height(cm)</string>
+    <string name="weight_label">Weight(kk)</string>
+    <string name="calculate_label">CALCULATE</string>
+
+</resources>
